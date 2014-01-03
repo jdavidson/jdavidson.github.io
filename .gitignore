@@ -8,3 +8,9 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+Gemfile.lock
