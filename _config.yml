@@ -4,7 +4,7 @@ logo:             cc-logo.png
 disqus_shortname:
 search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              # http://correlatedcausation.com
+url:              http://correlatedcausation.com
 
 # Owner/author information
 owner:
