@@ -10,11 +10,11 @@ share: true
 
 tl;dr the likelihood of a follow on financing peaks at around 9 months.
 
-At Google and later at Hotel Tonight, data that represents actual user activity (search, click, purchase events) is always more valuable than the best academic model. For the venture industry, fundings are the most public activity for start up behavior. Looking at start up behavior and success can inform strategy and [Crunchbase](http://info.crunchbase.com/about/crunchbase-data-exports/) represents a treasure trove of great start up activity data.
+When I worked at Google and later at Hotel Tonight, data that represented actual user activity (search, click, purchase events) was always more valuable than the best academic model. For the venture industry, fundings are the most public data for start up behavior. [Crunchbase](http://info.crunchbase.com/about/crunchbase-data-exports/) represents a treasure trove of this great start up data.
 
 In my first post, I took a look at [how much start ups raise]({{ site.url }}/how-much-to-raise-using-crunchbase-data/). I concluded that start ups should target 12 - 18 months of runway. As a follow up, I want to take a deeper look at timing.  The empirical cadence and timing of funding can hopefully inform time lines.
 
-By reconstructing the start ups funding history represented by the crunchbase data, we can observe how likely they are to raise a subsequent round after an initial financing.  Note not raising another round isn't necessarily a negative signal.  For the purpose of this analysis, we'll take a simplifying assumption that start ups below a Series C will require subsequent financing to be successful (reach profitability or acquisition).  Also, Crunchbase represents publicly announced funding.  For this analysis, it is assumed that delays in announcements affect each round equally in aggregate.
+By reconstructing the start ups funding history represented by the crunchbase data, we can observe how likely start ups are to raise a subsequent round after an initial financing.  Note not raising another round isn't necessarily a negative signal.  For the purpose of this analysis, we'll take a simplifying assumption that start ups below a Series C will require subsequent financing to be successful (reach profitability or acquisition).  Also, Crunchbase represents publicly announced funding.  For this analysis, it is assumed that delays in announcements affect each round equally in aggregate.
 
 ## The Numbers
 
@@ -23,7 +23,7 @@ By reconstructing the start ups funding history represented by the crunchbase da
   <a href="{{ site.url }}/images/crunchbase/medians-time.png"><img src="{{ site.url }}/images/crunchbase/medians-time.png" /></a>
 </figure>
 
-Looking at the fraction of start ups that subsequently raise at any point after a number of months after financing, will demonstrate an empirical likelihood.  Start ups at different funding round stages (Angel, A, B ...), should be considered differently as they have different risks and capital requirements.  The median time between rounds increases in subsequent rounds but not by much.  The median successful start up in any round raises after a year.
+Looking at the fraction of start ups, that subsequently raise at any point after a number of months after financing, will demonstrate an empirical likelihood.  Start ups at different funding round stages (Angel, A, B ...) should be considered differently as they have different risks and capital requirements.  The median time between rounds increases in subsequent rounds but not by much.  The median successful start up in any round raises after about a year.
 
 <figure>
   <a href="{{ site.url }}/images/crunchbase/follow-on-likelihood-by-time.png"><img src="{{ site.url }}/images/crunchbase/follow-on-likelihood-by-time.png" /></a>
