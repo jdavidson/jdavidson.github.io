@@ -35,7 +35,7 @@ Business Intelligence - dashboards, and visualization
 As evidenced by Tableau, Datameer<sup>1</sup>, Looker<sup>1</sup>.
 
 **Algorithmic**
-The manual modeling and offline optimization gives way to algorithmic.
+The manual modeling and offline optimization gives way to algorithmic online models.
 
 Relevance - ranking given a direct user intent (query)
 Recommendation - given indirect user intent
