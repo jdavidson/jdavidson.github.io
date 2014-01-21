@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Surge Pricing"
-description: While surge pricing is economically efficient, it's true benefit needs to be a less risky consumer product.
+description: While surge pricing is economically efficient, its true benefit needs to be a less risky consumer product.
 tags: [marketplace,startup,econ]
 image:
   feature: uber.jpg
 share: true
 ---
-tl;dr While surge pricing is economically efficient, it's true benefit needs to be a less risky consumer product.
+tl;dr While surge pricing is economically efficient, its true benefit needs to be a less risky consumer product.
 
 A lot has been written about Uber's surge pricing but I wanted to take a stab at explaining my thoughts from a product and marketplace perspective.  At it's core Uber's demand based pricing allows for a more capital efficient allocation of a semi-fixed supply (drivers) and secondarily provides incentive for drivers to increase that supply.  It allows consumers that want the flexibility of Uber's service to rely on access (with an increase in price) and offsets demand from price sensitive consumers that don't value the delta between Uber's experience and other competitive options (public transit, cabs, and self propulsion).
 
