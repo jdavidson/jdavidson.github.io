@@ -2,9 +2,10 @@
 layout: post
 title: "Big Data Applications"
 description: ""
-tags: [startup]
-excerpt: <p></p>
+tags: [startup, big data]
 ---
+
+
 In the same way the open source [LAMP](http://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack of Linux, Apache, MySQL and PHP, the big data stack has been established and will be the foundation of a next generation of applications.  Technology, previously only possible at Google, has been made accessible through the generation of this open source.  This stack has accelerated the pace of innovation.
 
 Stack
@@ -21,18 +22,18 @@ This ecosystem is powered by service companies across the broader stack:
   <li>Apache Mahout, Oryx / Myrrix, Kiji - modeling</li>
 </ul>
 
-With companies like Cloudera, Hortonworks and MapR<sup>1</sup>, pushing this big data stack innovation.
+With companies like Cloudera, Hortonworks, MapR<sup>1</sup> and new comers like DataBricks, driving this big data stack innovation.
 
 Application
 -------------
 
 **Manual**
-With the web click streams, mobile events, the IoT sensors and more, data continues to grow [exponentially](http://techcrunch.com/2010/08/04/schmidt-data/).  The first order of business is to make it accessible and useful.  Actionable analytics is a first step, allowing for manual optimizations.
+With web click streams, mobile events, IoT sensors and more, data continues to grow [exponentially](http://techcrunch.com/2010/08/04/schmidt-data/).  The first order of business is to make it accessible and useful.  Actionable analytics is a first step, allowing for manual optimizations.
 
 Analytics - databases and exploration
 Business Intelligence - dashboards, and visualization
 
-As evidenced by Tableau, Datameer<sup>1</sup>, Looker<sup>1</sup>.
+As evidenced by companies creating actionable analysis of company data like Tableau, Datameer<sup>1</sup>, Looker<sup>1</sup>.
 
 **Algorithmic**
 The manual modeling and offline optimization gives way to algorithmic online models.
@@ -43,7 +44,7 @@ Personalization - customization on a per user level
 Anomaly Detection - fraud, threat
 Forecast - model generation
 
-Companies like Rich Relevance, WibiData, Sift Sciences, and Optimizely are providing these services.
+Companies like Rich Relevance, WibiData, Sift Sciences, and Optimizely are providing recommendation, personalization and fraud detection as a service.
 
 The result of which is the proliferation of tools and technology that is enabling big data applications previously only possible at places like Google.  These data scientists are creating the next generation of applications only now possible.
 
