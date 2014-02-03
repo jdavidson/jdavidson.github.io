@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enterprise vs Consumer Start Ups
+title: Enterprise vs consumer start ups
 description: Enterprise is the bread and butter of venture with good reason
 tags: [data, vc, crunchbase]
 share: true
