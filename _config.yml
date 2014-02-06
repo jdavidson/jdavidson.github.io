@@ -62,3 +62,20 @@ kramdown:
 
 include: [".htaccess"]
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+
+prose:
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+      - name: "description"
+        field:
+          element: "text"
+          label: "description"
