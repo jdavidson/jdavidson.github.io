@@ -17,7 +17,7 @@ This ecosystem is powered by service companies across the broader stack:
   <li>Hadoop, HDFS, HBase, MongoDB, Cassandra, Riak, Splunk, Amazon Redshift ... - data stores</li>
   <li>Scribe, Flume, Sqoop, Kafka - data ingestion</li>
   <li>Map Reduce, Hive, Pig, Cascading - batch data processing</li>
-  <li>Spark / Shark, Impala, Drill, Presto, Tez / Stringer, Druid, Storm, S4 - real time data processing</li>
+  <li>Spark / Shark, Splunk Hunk, Impala, Drill, Presto, Tez / Stringer, Druid, Storm, S4 - real time data processing</li>
   <li>Lucene, SOLR - search</li>
   <li>Apache Mahout, Oryx / Myrrix, Kiji - modeling</li>
 </ul>
