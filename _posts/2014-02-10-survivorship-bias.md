@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rise of Authenticity - Secret, Unicorns and Survivorship Bias
+title: Rise of Authenticity - Secret, Unicorns and Survivorship Bias
 description: Just like Facebook posts aren't representative of real life, fund raising and liquidity aren't representative of startup experiences.
 tags: [startup, stats]
 share: true
