@@ -8,11 +8,11 @@ share: true
 
 # tl;dr Just like Facebook posts aren't representative of real life, fund raising and liquidity aren't representative of startup experiences.
 
-[Secret](https://www.secret.ly/) is a beautiful new app that has taken the silicon valley by storm.  It creates a clever semi-anonymous network using your phone's address book.  Lightly masking poster identity, while creating an environment where you likely know the person creating the anonymous content. In the founders own [words](https://medium.com/p/61a73ed561b4/):
+[Secret](https://www.secret.ly/) is a beautiful new app that has taken the silicon valley by storm.  It creates a clever semi-anonymous network using your phone's address book.  Secret lightly masks a poster identity, while creating an environment where you likely know the person creating the anonymous content. In the Secret founders own [words](https://medium.com/p/61a73ed561b4/):
 
 > We built Secret for people to be themselves and share anything they’re thinking and feeling with their friends without judgment.
 
-To me, Secret represents a return to authenticity in a world where most of the established networks are increasingly focused on self-promotion.
+To me, Secret represents a return to authenticity in a world where most of the established networks are increasingly focused on braggadocio and self-promotion.
 
 While enjoying the app this week, I've been struck by some vitriolic posts / comments expressing extreme dislike of some high flying start ups and founders.  When discussing this phenomenon, it struck me that this may also be part of the trend driving the app development in the first place.  Authenticity is missing both in our online social interactions as well as in broader early stage technology press coverage.  To often we hear only hear about fund raising, acquisitions and startup successes.  Examination of how incredibly difficult startups is much more rare.  (For those interested, Ryan Hoover has a great [list](http://ryanhoover.me/post/74229429351/14-startup-postmortems) of startup postmortems).  This skewed view of the world would be referred to as a survivorship bias in statistics.  I'd like to believe that these posts are part of a reactionary trend toward authenticity as opposed to blind hatred.
 
