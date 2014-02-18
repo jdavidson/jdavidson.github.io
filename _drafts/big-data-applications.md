@@ -1,39 +1,38 @@
 ---
 layout: post
-title: "Big Data Applications"
+title: Big Data Stack
 description: ""
-tags: [startup, big data]
+tags: [startup, data]
+share: true
 ---
 
+# tl;dr
 
-In the same way the open source [LAMP](http://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack of Linux, Apache, MySQL and PHP, the big data stack has been established and will be the foundation of a next generation of applications.  Technology, previously only possible at Google, has been made accessible through the generation of this open source.  This stack has accelerated the pace of innovation.
+In the same way the open source [LAMP](http://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack of Linux, Apache, MySQL and PHP, the big data stack has been established and will be the foundation of a next generation of applications.  Technology, previously only possible at Google, has been made accessible through the generation of this open source infrastructure.  This stack has accelerated the pace of innovation.
 
-Stack
--------------
+## Stack
 
 This ecosystem is powered by service companies across the broader stack:
-<ul>
-  <li>AWS - cloud compute and storage</li>
-  <li>Hadoop, HDFS, HBase, MongoDB, Cassandra, Riak, Splunk, Amazon Redshift ... - data stores</li>
-  <li>Scribe, Flume, Sqoop, Kafka - data ingestion</li>
-  <li>Map Reduce, Hive, Pig, Cascading - batch data processing</li>
-  <li>Spark / Shark, Splunk Hunk, Impala, Drill, Presto, Tez / Stringer, Druid, Storm, S4 - real time data processing</li>
-  <li>Lucene, SOLR - search</li>
-  <li>Apache Mahout, Oryx / Myrrix, Kiji - modeling</li>
-</ul>
+* AWS - cloud compute and storageHadoop, HDFS, HBase, MongoDB, Cassandra, Riak, Splunk, Amazon Redshift ... - data stores
+* Scribe, Flume, Sqoop, Kafka - data ingestion
+* Map Reduce, Hive, Pig, Cascading - batch data processing
+* Spark, Impala, Drill, Presto, Tez / Stringer, Druid, Storm, S4 - real time data processing
+* Lucene, SOLR, ElasticSearch - search
+* Apache Mahout, Oryx / Myrrix, Kiji - modeling
 
-With companies like Cloudera, Hortonworks, MapR<sup>1</sup> and new comers like DataBricks, driving this big data stack innovation.
+## Infrastructure
 
-Application
--------------
+Companies like Cloudera, Hortonworks, MapR[^1] and new comers like DataBricks, drive this big data stack innovation.  By offering, open source and licensed infrastructure, they enable big data.
+
+## Application
 
 **Manual**
 With web click streams, mobile events, IoT sensors and more, data continues to grow [exponentially](http://techcrunch.com/2010/08/04/schmidt-data/).  The first order of business is to make it accessible and useful.  Actionable analytics is a first step, allowing for manual optimizations.
 
 Analytics - databases and exploration
-Business Intelligence - dashboards, and visualization
+Business Intelligence - dashboards and visualization
 
-As evidenced by companies creating actionable analysis of company data like Tableau, Datameer<sup>1</sup>, Looker<sup>1</sup>.
+As evidenced by companies creating actionable analysis of company data like Tableau, Datameer[^1], Looker[^1].
 
 **Algorithmic**
 The manual modeling and offline optimization gives way to algorithmic online models.
@@ -48,7 +47,4 @@ Companies like Rich Relevance, WibiData, Sift Sciences, and Optimizely are provi
 
 The result of which is the proliferation of tools and technology that is enabling big data applications previously only possible at places like Google.  These data scientists are creating the next generation of applications only now possible.
 
-
-<ol>
-  <li>Redpoint Portfolio Companies</li>
-</ol>
+[^1]: Redpoint portfolio company.
