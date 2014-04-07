@@ -35,7 +35,7 @@ Demand can be harder to build and requires ubiquity of coverage and quality of s
 
 ### 1. Single side utility
 OpenTable [built](http://www.quora.com/How-did-OpenTable-form-its-first-partnerships-with-restaurants) two different products with different value propositions.  For top restaurants, not needing help generating demand, they built a CRM service to allow them to better services customers.  The next tier of restaurants, aspiring to the top, joined valuing an increased demand.
-Google built a better search product, syndicated their service and aggregated user demand before offering a CPC ad model.[^1]
+Google built a better search product, syndicated their service and aggregated user demand before offering a CPC ad model.  This is similar to social networks covered in Andrew Chen's fantastic [post](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/).
 
 ### 2. Integrations
 AirBnB [famously](http://www.quora.com/Did-Airbnb-really-need-to-illegally-spam-on-Craigslist-in-order-to-build-a-market) solicited existing Craiglist suppliers.  By leveraging other channel listings (often eBay or Craiglist), a marketplace can have comprehensive coverage of supply and without a direct relationship with all suppliers.
@@ -54,6 +54,3 @@ A story about YouTube wouldn't be complete without looking at their use of the [
 
 ### 7. Manual
 This is an extension of Paul Graham's ["Do things that don't scale"](http://paulgraham.com/ds.html).  In time vs money, delivery start ups like Postmates, [offering](http://www.fastcompany.com/3000883/what-apps-upper-class-mean-99) broad local business coverage with explicit relationships can be prohibitively difficult.  By manually fulfilling user demand, Postmates will offer menus at uncovered merchants and send a courier to order like a normal customer.  The network is able to offer better coverage than otherwise possible, driving like all others to ubiquity and liquidity.
-
-
-[^1] Similar to social networks covered in Andrew Chen's fantastic [post](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/)
