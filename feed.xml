@@ -10,7 +10,7 @@ layout: nil
     <description>{{ site.description }}</description>
     {% for post in site.posts limit:20 %}
       <item>
-        <title>{{ post.title }}</title>
+        <title>{{ post.title | xml_escape }}</title>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
