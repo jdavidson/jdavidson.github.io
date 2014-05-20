@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willful Delusion - Startups and the Stockdale Paradox
-description: Willful delusion - rational optimism
+description: Willful delusion - rational optimism is necessary for startups.
 tags: [startup]
 image:
   feature: optimism.jpg
