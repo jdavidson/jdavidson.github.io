@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I for one embrace our new robot overlords
+title: I, for one, embrace our new robot overlords
 description: Technology creates efficiency and leverage.  The rise in automation serves to empower the workforce just as machinery, electricity, and computing did previously.
 tags: [economics, robots]
 image:
