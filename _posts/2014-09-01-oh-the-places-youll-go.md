@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oh, The Places You'll Go!
-description:
+description: What startups today tell us about the future.
 tags: [future, tech]
 image:
   feature: oh-the-places-youll-go.jpg
@@ -104,7 +104,7 @@ In the process of digitizing everything, computer input is undergoing a similar 
 
 # Conclusion
 
-From Google's self-driving cars, to Apple / Nuance's Siri voice recognition system, to IBM's Watson, a series of simultaneous parallel inventions served to create the modern information technology economy.  The pace of innovation is increasing, revolutionizing classic information industries like communications, media, commerce, reaching into old stalwarts like education, healthcare, and even agriculture ([Climate Corp](https://www.climate.com/)(owned by Monsanto) predicting the weather), and creating new fields like robotics and new ways for us to interact computers.
+From Google's self-driving cars, to Apple / Nuance's Siri voice recognition system, to IBM's Watson, a series of simultaneous parallel inventions served to create the modern information technology economy.  The pace of innovation is increasing, revolutionizing classic information industries like communications, media, commerce, reaching into old stalwarts like education, healthcare, and even agriculture (like [Climate Corp](https://www.climate.com/) predicting the weather), and creating new fields like robotics and new ways for us to interact computers.
 
 I only hope to help influence this future to build a better world for [Luke](/images/luke-6-weeks.jpg).
 
