@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oh, The Places You'll Go!
-description: What startups today tell us about the future.
+description: What startups today tell us about tomorrow.
 tags: [future, tech]
 image:
   feature: oh-the-places-youll-go.jpg
