@@ -10,7 +10,7 @@ share: true
   <img src="{{ site.url }}/images/opentable.jpg" />
 </figure>
 
-When I co-founded PrimaTable, a restaurant marketplace startup, I had experience within Google's Adwords and YouTube's media marketplace but I tried to systematically learn about marketplaces from as many public company as possible.  Unfortunately, many marketplace companies don't report on the essential operational metrics (unit economics, CAC, LTV, liquidity, geographic density ...) and require crude assumptions to decompose their performance.  OpenTable was my closest comparable and reports nearly a complete supply side unit economics going back to 2006.  Let's take a look at their business.
+When I co-founded PrimaTable, a restaurant marketplace startup, I had prior experience within Google's Adwords and YouTube's media marketplace.  Taking the plunge, I tried to systematically learn about marketplaces from as many public company as possible.  Unfortunately, many marketplace companies don't report on the essential operational metrics (unit economics, CAC, LTV, liquidity, geographic density ...) and require crude assumptions to decompose their performance.  OpenTable was my closest comparable and reports nearly a complete set of supply side unit economics going back to 2006.  Let's take a look at their business.
 
 ## History
 
@@ -78,19 +78,24 @@ The average OpenTable restaurant generates $6K / year, costs $655 / year to supp
 ## Restaurant Value
 
 Per Diner:
- * Average Check Size  - $42.5[^1]
- * Restaurant Variable Cost - 35%[^2]
- * Contribution Margin - $28
+
+*   Average Check Size  - $42.5[^1]
+*   Restaurant Variable Cost - 35%[^2]
+*   Contribution Margin - $28
 
 At the standard OpenTable fee of $1 per diner[^3], a restaurant still makes a profit even if OpenTable cannibalizes 96% of diners.
 
-Sophisticated restaurateurs recognize that cannibalization varies by the day of week and the time of day and block off inventory that they know will otherwise book at peak times(where cannibalization could be 100%).  There are times where a restaurant will never be full and wouldn't even need to take a reservation.  The average incremental diner has a very different value accordinly.  OpenTable has explored dining incentives at non-peak shoulder times with their 1000 point listings (a $10 value to diners for which the restaurant pays $7.5).  My startup, PrimaTable, attempted to address the peak times.  A [slew](http://fortune.com/2014/09/03/opentable-dinematic-tablesweep-restaurant-reservation-service/) of startups have now subsequently popped up.
+Sophisticated restaurateurs recognize that cannibalization varies by the day of week and the time of day and block off inventory that they know will otherwise book at peak times (where cannibalization could be 100%).  There are times where a restaurant will never be full and wouldn't need to take a reservation.  The average incremental diner has a very different value accordingly.  OpenTable has explored dining incentives at non-peak shoulder times with their 1000 point listings (offering a $10 value to diners for which the restaurant pays OpenTable $7.5).  My startup, PrimaTable, attempted to address the peak times.  A [series](http://fortune.com/2014/09/03/opentable-dinematic-tablesweep-restaurant-reservation-service/) of startups have now subsequently popped up.
 
 # Conclusion
 
 Booking.com [pioneered](http://skift.com/2012/06/25/how-booking-com-conquered-world/) the merchant model.  By  starting at a low 10% margin and offering favorable cash flow terms, Booking.com created a marketplace where hotels control pricing and bid in an auction with margin.  In this Adwords like auction, hotels are able to bid for better placement (and thus visibility).  Booking.com started with a low rake to get broad supplier adoption, added in an auction pricing dynamic that is market driven allowing suppliers that want volume or exposure to pay more.
 
-An interesting parallel between the initial days of Booking.com can be made to OpenTable today.  OpenTable creates a lot of value for restaurants and consumers today.  There is a lot left to do, consumer demand generation, marketplace innovation for restaurants, and international growth just to start.
+An interesting parallel between OpenTable and the initial days of Booking.com can be made.  OpenTable creates a lot of value for restaurants and consumers.  There is a lot left to do, consumer demand generation, marketplace innovation for restaurants, and international growth are where I would start.
+
+# Data
+
+[OpenTable SEC Filings](http://investors.opentable.com/sec.cfm?view=all)
 
 [^1]: [OpenTable Corporate Presentation](http://files.shareholder.com/downloads/ABEA-2TKK09/0x0x750629/09e2ff42-91ea-4b5f-845e-350faecc8fd0/OpenTable%20Corporate%20Presentation%20(Q1%202014)%20FINAL.pdf)
 [^2]: [NRA Restaurant Industry Operations Report](http://imis.restaurant.org/store/detail.aspx?id=OPSRPT2013)
