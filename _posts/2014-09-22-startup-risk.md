@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Startup Risk and Valuation
-description:
+description: Startup risk allows for the potential for reward.  Valuation only increases on mitigation of risk.
 tags: [vc, tech, startup]
 image:
   feature: risk.jpg
