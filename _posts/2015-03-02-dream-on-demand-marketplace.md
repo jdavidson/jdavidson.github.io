@@ -58,8 +58,8 @@ The goal of the pitch is draw an investor in further.  You want to establish a l
 
     The best pitches anticipate questions that an investor leaning in might have.  The two I always care about are:
 
-        1. Greater detail on the product and tech
-        2. Customer cohort data
+    1. Greater detail on the product and tech
+    2. Customer cohort data
 
 ## Code and Data
 
